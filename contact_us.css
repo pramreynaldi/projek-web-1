@@ -1,0 +1,217 @@
+.top {
+    list-style-type: none;
+    margin-right: 40px;
+    overflow: hidden;
+    padding: 10px;
+    margin: 0;
+    background-color: rgb(245, 242, 242);
+}
+
+.top-li {
+    float: left;
+    padding: 10px;
+}
+
+.top-li1 {
+    float: right;
+    padding: 10px;
+}
+
+.bawah {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(249, 249, 249);
+}
+
+li.logo {
+    float: left;
+    margin: 10px;
+}
+
+li.li-bawah {
+    padding-top: 10px;
+    padding-left: 200px;
+    margin: 10px;
+}
+
+.li-bawah a {
+    display: block;
+    color: rgb(14, 13, 13);
+    text-decoration: none;
+    text-align: center;
+    margin: 10px;
+    padding-right: 100px;
+    padding: 0;
+}
+
+div.gallery {
+    margin-left: 200px;
+    margin: 5px;
+    float: left;
+    width: 200px;
+}
+
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+/* .navatas{
+    background-color: black;
+    width: 100%;
+} */
+/* .navatas,li{
+    float: left;
+    margin: 15px;
+    color: black;
+} */
+
+/* .bawahnya{
+    background-color: white;
+    width: 100%;
+}
+.bawahnya ul{
+    list-style-type: none;
+margin: 0;
+padding: 0;
+background-color: #333;
+}
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #333;
+}
+
+li {
+float: left;
+}
+li a img{
+margin-top: 20px;
+}
+li a {
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+li a:hover:not(.active) {
+background-color: #111;
+}
+
+.active {
+background-color: #ffffff;
+/* } */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: rgb(32, 31, 31);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin-left: 100px;
+}
+
+div.gallery1 {
+    margin: 15px;
+    float: left;
+    width: 280px;
+}
+
+
+div.gallery1 img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+/* STYLES SPECIFIC TO FOOTER  */
+.footer {
+    width: 100%;
+    position: relative;
+    height: auto;
+
+
+}
+
+.footer .col {
+    width: 190px;
+    height: auto;
+    float: left;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    padding: 0px 20px 20px 20px;
+}
+
+.footer .col h1 {
+    margin: 0;
+    padding: 0;
+    font-size: 22px;
+    line-height: 17px;
+    padding: 120px 0px 5px 0px;
+    color: rgba(10, 0, 0, 0.973);
+    text-transform: uppercase;
+}
+
+.footer .col ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.footer .col ul li {
+    color: #060606;
+    font-weight: bold;
+    padding: 5px 0px 5px 0px;
+    cursor: pointer;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.box {
+    float: left;
+    width: 100%;
+    padding: 50px;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+.box1 {
+    float: left;
+    width: 100%;
+    padding: 50px;
+}
+.foterbawah{
+    color: white;
+}
